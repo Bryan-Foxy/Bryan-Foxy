@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Endezoumou Fozame</h1>
 <h3 align="center">A passionate Data Scientist in Cameroon</h3>
-<img align=“right” alt=“Coding” width=“400” src="https://gfycat.com/ignorantskinnyhamadryad-science-technology-vehicle-detection")
+<img align=“right” alt=“Coding” width=“400” src="https://thumbs.gfycat.com/LightheartedComplexHake-size_restricted.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryan-foxy&label=Profile%20views&color=0e75b6&style=flat" alt="bryan-foxy" /> </p>
 
