@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Endezoumou Fozame</h1>
-<h3 align="center">A passionate Data Scientist in Cameroon</h3>
+<h3 align="center">A passionate Data Scientist in France</h3>
 <img align=“right” alt=“Coding” width=“400” src="https://thumbs.gfycat.com/LightheartedComplexHake-size_restricted.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryan-foxy&label=Profile%20views&color=0e75b6&style=flat" alt="bryan-foxy" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning, Telecommunication, Cryptography**
+- 🌱 I’m currently learning **Deep Learning, Telecommunication, Image Processing**
 
 - 💬 Ask me about **IA, New Technology**
 
-- 📫 How to reach me **armandbryan572@icloud.com**
+- 📫 How to reach me **fozybryan@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
